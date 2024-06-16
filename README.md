@@ -9,4 +9,4 @@ The thesis presents and evaluates a data-driven modelling approach using the Pas
 
 Link to the thesis: [to be added]
 
-![File structure of the project:](readme_flowchart_structure.png)
+![File structure of the project:](readme_file_structure.png)
