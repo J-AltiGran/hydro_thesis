@@ -7,7 +7,7 @@ This project contains the files and structure related to the Master's Thesis "Qu
 
 The thesis presents and evaluates a data-driven modelling approach using the Pastas-package in Python 3.11.8. The method is applied to a tunnelling project in Sweden, where leakage to the tunnel risks causing tunnelling-induced drawdown, which can affect the flow in a stream with high ecological values.
 
-The scripts in the repository have been specifically developed for the project, and the input data has been quality controlled before use. The input data in the first folder could not be added to the repository since data is not publicly available.
+The scripts in the repository have been specifically developed for the project, and the input data has been quality controlled before use. The input data in the first folder could not be added to the repository since the data is not open to the public.
 
 Link to the thesis: [to be added, will be found on Chalmers Open Digital Repository at https://odr.chalmers.se/home]
 
