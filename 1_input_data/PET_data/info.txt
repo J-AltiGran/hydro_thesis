@@ -1,1 +1,1 @@
-Add time series for parameters needed.
+Add time series here according to instructions in file 2_data_processing\2.3_PET_data\PET_estimation.ipynb.
