@@ -21,7 +21,7 @@ To recreate the Conda environment used in this project, follow these steps:
 
     ```bash
     git clone https://github.com/J-AltiGran/hydro_thesis.git
-    cd your-repository
+    cd hydro_thesis
     ```
 
 2. **Create the Conda Environment**:
