@@ -12,3 +12,32 @@ The scripts in the repository have been specifically developed for the project, 
 Link to the thesis: [to be added, will be found on Chalmers Open Digital Repository at https://odr.chalmers.se/home]
 
 ![File structure of the project:](readme_file_structure.png)
+
+## Recreating the Conda Environment
+
+To recreate the Conda environment used in this project, follow these steps:
+
+1. **Clone the repository**:
+
+    ```bash
+    git clone https://github.com/J-AltiGran/hydro_thesis.git
+    cd your-repository
+    ```
+
+2. **Create the Conda Environment**:
+
+    ```bash
+    conda env create -f environment.yml
+    ```
+
+3. **Activate the Environment**:
+
+    ```bash
+    conda activate masters-thesis
+    ```
+
+4. **Verify the Installation**:
+
+    ```bash
+    conda list
+    ```
