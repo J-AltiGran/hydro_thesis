@@ -1,7 +1,7 @@
 # Data-Driven Modelling for Groundwater-Surface Water Interactions
 Master's Thesis by Joaquim Altimiras Granel, Chalmers University of Technology.
 
-2024-04-06
+2024-04-27
 
 This project contains the files and structure related to the Master's Thesis "Quantifying Groundwater-Surface Water Interactions with Transfer Function Models" by Joaquim Altimiras Granel (2024).
 
